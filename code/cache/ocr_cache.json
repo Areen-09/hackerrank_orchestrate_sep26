@@ -1,0 +1,130 @@
+{
+  "image_01": {
+    "image_id": "image_01",
+    "related_event_id": "event_253",
+    "user_id": "user_03",
+    "request_id": "request_03",
+    "amount": 4365000.0,
+    "raw_response": "{\"amount\": 4365000.0, \"currency\": \"IDR\", \"date\": \"2019-09-02\", \"description\": \"PAY SLIP Aug-2019 - Net Pay\"}"
+  },
+  "image_02": {
+    "image_id": "image_02",
+    "related_event_id": "event_1442",
+    "user_id": "user_16",
+    "request_id": "request_16",
+    "amount": 100000.0,
+    "raw_response": "```json\n{\"amount\": 100000.00, \"currency\": \"INR\", \"date\": \"2023-08-11\", \"description\": \"Rent Payment\"}\n```"
+  },
+  "image_03": {
+    "image_id": "image_03",
+    "related_event_id": "event_1545",
+    "user_id": "user_17",
+    "request_id": "request_17",
+    "amount": 41272.0,
+    "raw_response": "{\"amount\": 41272.0, \"currency\": \"INR\", \"date\": \"2026-02-27\", \"description\": \"RIDDHI SIDDHI (NUTS AND SPICES)\"}"
+  },
+  "image_04": {
+    "image_id": "image_04",
+    "related_event_id": "event_1700",
+    "user_id": "user_19",
+    "request_id": "request_19",
+    "amount": 2854.0,
+    "raw_response": "{\"amount\": 2854.0, \"currency\": \"INR\", \"date\": null, \"description\": \"Delivery to Jeevan Bhima Nagar - 13 items\"}"
+  },
+  "image_05": {
+    "image_id": "image_05",
+    "related_event_id": "event_1786",
+    "user_id": "user_20",
+    "request_id": "request_20",
+    "amount": 704.05,
+    "raw_response": "{\"amount\": 704.05, \"currency\": \"INR\", \"date\": \"2026-02-06\", \"description\": \"Airtel Thanks for Business bill\"}"
+  },
+  "image_06": {
+    "image_id": "image_06",
+    "related_event_id": "event_3051",
+    "user_id": "user_33",
+    "request_id": "request_33",
+    "amount": 1995.0,
+    "raw_response": "{\"amount\": 1995.0, \"currency\": \"INR\", \"date\": null, \"description\": \"Blink Commerce Private Limited\"}"
+  },
+  "image_07": {
+    "image_id": "image_07",
+    "related_event_id": "event_3231",
+    "user_id": "user_35",
+    "request_id": "request_35",
+    "amount": 8528.0,
+    "raw_response": "{\"amount\": 8528.0, \"currency\": \"INR\", \"date\": \"2025-10-29\", \"description\": \"Nagarjuna 1984 KMR\"}"
+  },
+  "image_08": {
+    "image_id": "image_08",
+    "related_event_id": "event_4535",
+    "user_id": "user_48",
+    "request_id": "request_48",
+    "amount": 15339.0,
+    "raw_response": "{\"amount\": 15339.0, \"currency\": \"INR\", \"date\": \"2026-07-24\", \"description\": \"Online Payment against Maintenance Bill (Inv No - 6455)\"}"
+  },
+  "image_09": {
+    "image_id": "image_09",
+    "related_event_id": "event_5170",
+    "user_id": "user_55",
+    "request_id": "request_55",
+    "amount": 723.0,
+    "raw_response": "{\"amount\": 723.0, \"currency\": \"INR\", \"date\": \"2026-06-07\", \"description\": \"Online Payment against Water Bill (Inv No - 6320)\"}"
+  },
+  "image_10": {
+    "image_id": "image_10",
+    "related_event_id": "event_6033",
+    "user_id": "user_64",
+    "request_id": "request_64",
+    "amount": 79679.26,
+    "raw_response": "{\"amount\": 79679.26, \"currency\": \"INR\", \"date\": null, \"description\": \"Groceries, snacks and beverages\"}"
+  },
+  "image_11": {
+    "image_id": "image_11",
+    "related_event_id": "event_6859",
+    "user_id": "user_73",
+    "request_id": "request_73",
+    "amount": 3650.0,
+    "raw_response": "{\"amount\": 3650.0, \"currency\": \"INR\", \"date\": \"2023-01-19\", \"description\": \"Jeevan Hospital Provisional Bill\"}"
+  },
+  "image_12": {
+    "image_id": "image_12",
+    "related_event_id": "event_7307",
+    "user_id": "user_78",
+    "request_id": "request_78",
+    "amount": 33.5,
+    "raw_response": "{\"amount\": 33.5, \"currency\": \"USD\", \"date\": \"2025-01-10\", \"description\": \"CityCab Service\"}"
+  },
+  "image_13": {
+    "image_id": "image_13",
+    "related_event_id": "event_7941",
+    "user_id": "user_84",
+    "request_id": "request_84",
+    "amount": 2298.0,
+    "raw_response": "{\"amount\": 2298.0, \"currency\": \"INR\", \"date\": null, \"description\": \"DailyObjects Tote Bags\"}"
+  },
+  "image_14": {
+    "image_id": "image_14",
+    "related_event_id": "event_9421",
+    "user_id": "user_101",
+    "request_id": "request_101",
+    "amount": 4543.0,
+    "raw_response": "{\"amount\": 4543.0, \"currency\": \"INR\", \"date\": null, \"description\": \"Samhan, moov spray, Axe oil, stayfree, Benadryl\"}"
+  },
+  "image_15": {
+    "image_id": "image_15",
+    "related_event_id": "event_9806",
+    "user_id": "user_105",
+    "request_id": "request_105",
+    "amount": 9968.0,
+    "raw_response": "{\"amount\": 9968.0, \"currency\": \"INR\", \"date\": \"2026-06-07\", \"description\": \"InterGlobe Aviation - Flight 6E-861 DEL to BLR\"}"
+  },
+  "image_16": {
+    "image_id": "image_16",
+    "related_event_id": "event_10521",
+    "user_id": "user_113",
+    "request_id": "request_113",
+    "amount": 393.22,
+    "raw_response": "{\"amount\": 393.22, \"currency\": \"INR\", \"date\": \"2026-09-03\", \"description\": \"Krishnagiri EV Charging\"}"
+  }
+}

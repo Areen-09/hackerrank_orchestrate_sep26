@@ -1,0 +1,1722 @@
+{
+  "message_01": {
+    "message_id": "message_01",
+    "salary_adjustment_amount": 42750000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary increased to IDR 42,750,000 starting August 15, 2025."
+  },
+  "message_02": {
+    "message_id": "message_02",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Routine payroll confirmed with separate one-time adjustment on next payslip."
+  },
+  "message_03": {
+    "message_id": "message_03",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Quarterly bonus is pending performance review finalization and is unapproved."
+  },
+  "message_04": {
+    "message_id": "message_04",
+    "salary_adjustment_amount": 1037.52,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Temporary reduced monthly pay set to EUR 1,037.52 for the next pay cycle."
+  },
+  "message_05": {
+    "message_id": "message_05",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Confirmed salary expected date updated to September 23, 2024."
+  },
+  "message_06": {
+    "message_id": "message_06",
+    "salary_adjustment_amount": 1422.85,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Salary reduced to EUR 1,422.85 due to approved unpaid leave."
+  },
+  "message_07": {
+    "message_id": "message_07",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "QuickCrew payout is pending and balance is not yet withdrawable."
+  },
+  "message_08": {
+    "message_id": "message_08",
+    "salary_adjustment_amount": 38760000.0,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Confirmed basic salary is IDR 38,760,000, but transaction commissions remain unapproved."
+  },
+  "message_09": {
+    "message_id": "message_09",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Seasonal contract ended with no confirmed off-season income or renewal."
+  },
+  "message_10": {
+    "message_id": "message_10",
+    "salary_adjustment_amount": 2717.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of EUR 2,717 resumes with a new recurring childcare deduction starting August 15, 2025."
+  },
+  "message_11": {
+    "message_id": "message_11",
+    "salary_adjustment_amount": 1661.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary of EUR 1,661 confirmed to credit on January 15, 2026."
+  },
+  "message_12": {
+    "message_id": "message_12",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Renewed lease increases monthly rent by 12%."
+  },
+  "message_13": {
+    "message_id": "message_13",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Matching debit and credit recorded from a transfer between accounts."
+  },
+  "message_14": {
+    "message_id": "message_14",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Refund initiated by CartLane has not yet reached the account."
+  },
+  "message_15": {
+    "message_id": "message_15",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Portfolio market value increased with no units sold or cash proceeds generated."
+  },
+  "message_16": {
+    "message_id": "message_16",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Prize claim verified and in payment processing, not yet credited."
+  },
+  "message_17": {
+    "message_id": "message_17",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Prize proceeds reached account; claim closed."
+  },
+  "message_18": {
+    "message_id": "message_18",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Client approved invoice payment of IDR 30780000; settlement expected."
+  },
+  "message_19": {
+    "message_id": "message_19",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "TaskLoop payout is still pending and not withdrawable."
+  },
+  "message_20": {
+    "message_id": "message_20",
+    "salary_adjustment_amount": 1452.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary set to EUR 1452 with a one-time arrears adjustment of EUR 653.40."
+  },
+  "message_21": {
+    "message_id": "message_21",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Seasonal contract ended with no off-season income confirmed."
+  },
+  "message_22": {
+    "message_id": "message_22",
+    "salary_adjustment_amount": 54120.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary updated to ZAR 54120."
+  },
+  "message_23": {
+    "message_id": "message_23",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Account transaction review showing internal transfer between accounts."
+  },
+  "message_24": {
+    "message_id": "message_24",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Invoice payment of INR 196000 approved by client."
+  },
+  "message_25": {
+    "message_id": "message_25",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Refund initiated but not yet credited to account."
+  },
+  "message_26": {
+    "message_id": "message_26",
+    "salary_adjustment_amount": 2988.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary increased to USD 2988."
+  },
+  "message_27": {
+    "message_id": "message_27",
+    "salary_adjustment_amount": 21090000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary set to IDR 21090000 with a one-time arrears adjustment of IDR 9490500."
+  },
+  "message_28": {
+    "message_id": "message_28",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Prize proceeds received; claim closed."
+  },
+  "message_29": {
+    "message_id": "message_29",
+    "salary_adjustment_amount": 1760.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary updated to EUR 1760."
+  },
+  "message_30": {
+    "message_id": "message_30",
+    "salary_adjustment_amount": 148000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Household employment record ended; remaining confirmed monthly salary is INR 148000."
+  },
+  "message_31": {
+    "message_id": "message_31",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary from HarborWorks confirmed as IDR 32870000 for 2024-09-15."
+  },
+  "message_32": {
+    "message_id": "message_32",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary from Riverline Retail confirmed as INR 115000 for 2025-02-15."
+  },
+  "message_33": {
+    "message_id": "message_33",
+    "salary_adjustment_amount": 17290000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary at Northstar Labs increased to IDR 17290000 starting 2026-07-15."
+  },
+  "message_34": {
+    "message_id": "message_34",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "RideGrid weekly payout is pending and unwithdrawable until completed."
+  },
+  "message_35": {
+    "message_id": "message_35",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Property maintenance payment received on 24 July 2026."
+  },
+  "message_36": {
+    "message_id": "message_36",
+    "salary_adjustment_amount": 31464000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Temporary monthly salary at Greenfield Foods set to IDR 31464000."
+  },
+  "message_37": {
+    "message_id": "message_37",
+    "salary_adjustment_amount": 126000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods payroll updated after household employment ended; remaining monthly salary is INR 126000."
+  },
+  "message_38": {
+    "message_id": "message_38",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary from HarborWorks confirmed as INR 69000 for 2024-06-15."
+  },
+  "message_39": {
+    "message_id": "message_39",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Everyday Store refund has been initiated but is pending completion."
+  },
+  "message_40": {
+    "message_id": "message_40",
+    "salary_adjustment_amount": 42460.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary at Northstar Labs increased to ZAR 42460 starting 2026-07-15."
+  },
+  "message_41": {
+    "message_id": "message_41",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Summit Bank transaction update regarding a transfer between two own accounts."
+  },
+  "message_42": {
+    "message_id": "message_42",
+    "salary_adjustment_amount": 25840000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health payroll updated after a household income source ended; remaining salary is IDR 25840000."
+  },
+  "message_43": {
+    "message_id": "message_43",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "WorkDash payout is pending and unwithdrawable."
+  },
+  "message_44": {
+    "message_id": "message_44",
+    "salary_adjustment_amount": 530.4,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs salary reduced to USD 530.40 due to approved unpaid leave."
+  },
+  "message_45": {
+    "message_id": "message_45",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods seasonal contract has ended with no off-season income confirmed."
+  },
+  "message_46": {
+    "message_id": "message_46",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Client approved an invoice payment of USD 2112, expected on 2025-08-15."
+  },
+  "message_47": {
+    "message_id": "message_47",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Foreign-currency refund from UrbanCart is still processing."
+  },
+  "message_48": {
+    "message_id": "message_48",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Quarterly bonus at Northstar Labs is subject to final review and not yet approved."
+  },
+  "message_49": {
+    "message_id": "message_49",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Client approved an invoice payment of INR 116000, expected on 2026-04-15."
+  },
+  "message_50": {
+    "message_id": "message_50",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail updated the expected salary payment date to 2025-02-23."
+  },
+  "message_51": {
+    "message_id": "message_51",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "RentNest renewed lease increases monthly rent by 12%."
+  },
+  "message_52": {
+    "message_id": "message_52",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "PocketVest portfolio market value increased, but no cash proceeds generated."
+  },
+  "message_53": {
+    "message_id": "message_53",
+    "salary_adjustment_amount": 696.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods confirmed a salary of USD 696 for 2025-05-15."
+  },
+  "message_54": {
+    "message_id": "message_54",
+    "salary_adjustment_amount": 18700.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health first salary confirmed as ZAR 18700 for 2026-07-15."
+  },
+  "message_55": {
+    "message_id": "message_55",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "RentTrack renewed lease increases monthly rent by 12%."
+  },
+  "message_56": {
+    "message_id": "message_56",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Client approved an invoice payment of ZAR 26180, expected on 2025-08-15."
+  },
+  "message_57": {
+    "message_id": "message_57",
+    "salary_adjustment_amount": 0.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": true,
+    "amended_event_amount": null,
+    "summary": "Employment ended at Northstar Labs, no regular salary payments scheduled after final settlement."
+  },
+  "message_58": {
+    "message_id": "message_58",
+    "salary_adjustment_amount": 3072.0,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media confirmed base salary of USD 3072, but open deal commissions remain pending."
+  },
+  "message_59": {
+    "message_id": "message_59",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BuyBox refund initiated but not yet credited to the account."
+  },
+  "message_60": {
+    "message_id": "message_60",
+    "salary_adjustment_amount": 158000.0,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs confirmed base salary of INR 158000, but open deal commissions remain pending."
+  },
+  "message_61": {
+    "message_id": "message_61",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Renewed lease increases monthly rent by 12%."
+  },
+  "message_62": {
+    "message_id": "message_62",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of USD 1752 plus a one-time arrears adjustment of USD 788.40."
+  },
+  "message_63": {
+    "message_id": "message_63",
+    "salary_adjustment_amount": 62000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of INR 62000 resumes on 2025-05-15."
+  },
+  "message_64": {
+    "message_id": "message_64",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Tote bag order was paid in INR on 3 April 2026."
+  },
+  "message_65": {
+    "message_id": "message_65",
+    "salary_adjustment_amount": 8618400.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Temporary monthly salary is set to IDR 8618400."
+  },
+  "message_66": {
+    "message_id": "message_66",
+    "salary_adjustment_amount": 251000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of INR 251000 resumes on 2026-01-15."
+  },
+  "message_67": {
+    "message_id": "message_67",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cash prize notification requiring release/processing charge payment."
+  },
+  "message_68": {
+    "message_id": "message_68",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Client approved invoice payment of ZAR 13420."
+  },
+  "message_69": {
+    "message_id": "message_69",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Previous debit attempt failed; bill remains outstanding."
+  },
+  "message_70": {
+    "message_id": "message_70",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Confirmed base salary is ZAR 49280, but commission for open deals is pending."
+  },
+  "message_71": {
+    "message_id": "message_71",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Prize claim verified and in payment processing, not yet credited."
+  },
+  "message_72": {
+    "message_id": "message_72",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Client approved invoice payment of EUR 924."
+  },
+  "message_73": {
+    "message_id": "message_73",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Salary payment date updated to 2025-05-23."
+  },
+  "message_74": {
+    "message_id": "message_74",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Salary of EUR 1804 confirmed for 2025-08-15."
+  },
+  "message_75": {
+    "message_id": "message_75",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Prize proceeds reached account after withholding."
+  },
+  "message_76": {
+    "message_id": "message_76",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "WorkPort invoice payment approved for EUR 1419, but other submitted invoices remain awaiting approval."
+  },
+  "message_77": {
+    "message_id": "message_77",
+    "salary_adjustment_amount": 164880.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cobalt Systems updated payroll record with a temporary monthly pay of INR 164880."
+  },
+  "message_78": {
+    "message_id": "message_78",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods confirmed base salary at ZAR 35860, but open deal commissions are pending approval."
+  },
+  "message_79": {
+    "message_id": "message_79",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Nova Securities portfolio market value increased."
+  },
+  "message_80": {
+    "message_id": "message_80",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "HarborWorks confirmed first salary of EUR 1815 for 2024-12-15."
+  },
+  "message_81": {
+    "message_id": "message_81",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods scheduled first salary of EUR 2123 for processing."
+  },
+  "message_82": {
+    "message_id": "message_82",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail confirmed base salary at ZAR 33440, with open deal commissions pending approval."
+  },
+  "message_83": {
+    "message_id": "message_83",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "WorkPort invoice payment approved for ZAR 16720, other invoices awaiting approval."
+  },
+  "message_84": {
+    "message_id": "message_84",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "HarborWorks notified that the employment relationship has ended and no further routine salary payments are scheduled."
+  },
+  "message_85": {
+    "message_id": "message_85",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media upcoming first salary of EUR 627 confirmed for credit on 2024-06-15."
+  },
+  "message_86": {
+    "message_id": "message_86",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "MoneyHub wallet charged for a session, and employer confirmed USD 1296 salary credit for 15 September 2026."
+  },
+  "message_87": {
+    "message_id": "message_87",
+    "salary_adjustment_amount": 148200.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail reduced next salary to INR 148200 due to approved unpaid leave."
+  },
+  "message_88": {
+    "message_id": "message_88",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "RewardLane prize proceeds reached account, claim is closed with no further payments."
+  },
+  "message_89": {
+    "message_id": "message_89",
+    "salary_adjustment_amount": 1188.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs increased monthly salary to EUR 1188 starting 2026-07-15."
+  },
+  "message_90": {
+    "message_id": "message_90",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health regular salary is EUR 759 with a one-time arrears adjustment of EUR 341.55."
+  },
+  "message_91": {
+    "message_id": "message_91",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cobalt Systems informs that regular salary of INR 176000 resumes on 2025-05-15 with a new recurring childcare payment."
+  },
+  "message_92": {
+    "message_id": "message_92",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Arbor Invest confirms investment sale proceeds have reached the cash account with no pending amounts."
+  },
+  "message_93": {
+    "message_id": "message_93",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "ProjectPay notes client approved invoice payment of IDR 15390000, but other submitted invoices are still pending approval."
+  },
+  "message_94": {
+    "message_id": "message_94",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "TaskSprint notes next payment is still pending and earnings are unconfirmed/withdrawable."
+  },
+  "message_95": {
+    "message_id": "message_95",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods confirms salary of EUR 748 for 2025-11-15."
+  },
+  "message_96": {
+    "message_id": "message_96",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "ClientDesk notes approved invoice payment of INR 152000, while other submitted invoices await approval."
+  },
+  "message_97": {
+    "message_id": "message_97",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health resumes regular salary of ZAR 50160 on 2024-09-15 with a new recurring childcare payment."
+  },
+  "message_98": {
+    "message_id": "message_98",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail notes quarterly bonus is unapproved and subject to final performance review."
+  },
+  "message_99": {
+    "message_id": "message_99",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "WinPoint confirms prize proceeds have reached the account with no further scheduled payments."
+  },
+  "message_100": {
+    "message_id": "message_100",
+    "salary_adjustment_amount": 2177.28,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media notes temporary monthly pay is reduced to USD 2177.28 for the next payroll."
+  },
+  "message_101": {
+    "message_id": "message_101",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cobalt Systems updates confirmed salary date to 2025-05-23."
+  },
+  "message_102": {
+    "message_id": "message_102",
+    "salary_adjustment_amount": 1193.4,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health reduces salary to USD 1193.40 due to approved unpaid leave."
+  },
+  "message_103": {
+    "message_id": "message_103",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "HarborWorks notes seasonal contract has ended with no off-season income or contract extension confirmed."
+  },
+  "message_104": {
+    "message_id": "message_104",
+    "salary_adjustment_amount": 828.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail increases monthly salary to USD 828 starting from 2026-07-15."
+  },
+  "message_105": {
+    "message_id": "message_105",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "HomePortal notes renewed lease increases monthly rent by 12% starting from the next payment."
+  },
+  "message_106": {
+    "message_id": "message_106",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Bank card charge reversal is still being investigated and is not yet posted."
+  },
+  "message_107": {
+    "message_id": "message_107",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary confirmed at ZAR 31900, credit date 2025-02-15."
+  },
+  "message_108": {
+    "message_id": "message_108",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Investment sale proceeds have settled in the cash account."
+  },
+  "message_109": {
+    "message_id": "message_109",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Invoice payment of USD 2040 approved by client; other invoices awaiting approval."
+  },
+  "message_110": {
+    "message_id": "message_110",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Prize proceeds reached the account after withholding, claim now closed."
+  },
+  "message_111": {
+    "message_id": "message_111",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary confirmed at USD 864, credit date 2026-07-15."
+  },
+  "message_112": {
+    "message_id": "message_112",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary is INR 258000 with a one-time arrears adjustment of INR 116100."
+  },
+  "message_113": {
+    "message_id": "message_113",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of EUR 1529 resumes with a new recurring childcare payment."
+  },
+  "message_114": {
+    "message_id": "message_114",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Investment sale proceeds have settled in the StackWealth cash account."
+  },
+  "message_115": {
+    "message_id": "message_115",
+    "salary_adjustment_amount": 893.75,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Next salary reduced to EUR 893.75 due to approved unpaid leave."
+  },
+  "message_116": {
+    "message_id": "message_116",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary confirmed at IDR 46170000 for 2024-09-15."
+  },
+  "message_117": {
+    "message_id": "message_117",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Employer credit is a work expense reimbursement; claim is now closed."
+  },
+  "message_118": {
+    "message_id": "message_118",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Bill charged in foreign currency; final home-currency amount pending settlement."
+  },
+  "message_119": {
+    "message_id": "message_119",
+    "salary_adjustment_amount": 1628.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Household employment ended; remaining confirmed monthly salary is EUR 1628."
+  },
+  "message_120": {
+    "message_id": "message_120",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of INR 84000 resumes with a new recurring childcare payment."
+  },
+  "message_121": {
+    "message_id": "message_121",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Card charge dispute is open and reversal has not yet been posted."
+  },
+  "message_122": {
+    "message_id": "message_122",
+    "salary_adjustment_amount": 23940000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Temporary monthly salary updated to IDR 23,940,000 for the next payroll."
+  },
+  "message_123": {
+    "message_id": "message_123",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "ShiftPay payout is pending and not yet withdrawable."
+  },
+  "message_124": {
+    "message_id": "message_124",
+    "salary_adjustment_amount": 1672.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary from Riverline Retail confirmed at EUR 1672."
+  },
+  "message_125": {
+    "message_id": "message_125",
+    "salary_adjustment_amount": 26790000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary of IDR 26,790,000 approved for processing by HarborWorks."
+  },
+  "message_126": {
+    "message_id": "message_126",
+    "salary_adjustment_amount": 29070000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary increased to IDR 29,070,000 starting July 15, 2026."
+  },
+  "message_127": {
+    "message_id": "message_127",
+    "salary_adjustment_amount": 30400000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Routine salary set to IDR 30,400,000 with a one-time arrears adjustment of IDR 13,680,000."
+  },
+  "message_128": {
+    "message_id": "message_128",
+    "salary_adjustment_amount": 44270000.0,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Confirmed base salary is IDR 44,270,000, but commissions remain unapproved and pending."
+  },
+  "message_129": {
+    "message_id": "message_129",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Employment ended; no regular salary payments scheduled after final settlement."
+  },
+  "message_130": {
+    "message_id": "message_130",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Invoice payment of USD 2340 approved while other submitted invoices await approval."
+  },
+  "message_131": {
+    "message_id": "message_131",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Confirmed salary payment date revised to May 23, 2025."
+  },
+  "message_132": {
+    "message_id": "message_132",
+    "salary_adjustment_amount": 137150.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Next salary reduced to INR 137,150 due to approved unpaid leave."
+  },
+  "message_133": {
+    "message_id": "message_133",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Foreign-currency refund is still processing and unfinalized."
+  },
+  "message_134": {
+    "message_id": "message_134",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Reward claim verified and processing, but payment not yet credited."
+  },
+  "message_135": {
+    "message_id": "message_135",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Debit and credit entries identified as an internal transfer between two accounts."
+  },
+  "message_136": {
+    "message_id": "message_136",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Bank notification regarding minimum payments due on two separate card accounts."
+  },
+  "message_137": {
+    "message_id": "message_137",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods payroll confirmation of salary of USD 1284."
+  },
+  "message_138": {
+    "message_id": "message_138",
+    "salary_adjustment_amount": 1924.56,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail notification of reduced temporary monthly pay of EUR 1924.56."
+  },
+  "message_139": {
+    "message_id": "message_139",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health confirmed base salary with pending commission for open deals."
+  },
+  "message_140": {
+    "message_id": "message_140",
+    "salary_adjustment_amount": 1731.6,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media salary reduced to USD 1731.60 due to unpaid leave."
+  },
+  "message_141": {
+    "message_id": "message_141",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "FreelanceHub invoice payment approved for EUR 2376 while other invoices remain pending."
+  },
+  "message_142": {
+    "message_id": "message_142",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "RewardNow cash prize notification requiring processing fee payment."
+  },
+  "message_143": {
+    "message_id": "message_143",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs payroll information confirming first salary of INR 59000."
+  },
+  "message_144": {
+    "message_id": "message_144",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media quarterly bonus subject to performance review and pending approval."
+  },
+  "message_145": {
+    "message_id": "message_145",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "CartLane foreign currency payment or refund pending final settlement conversion."
+  },
+  "message_146": {
+    "message_id": "message_146",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightBasket foreign currency refund is still processing."
+  },
+  "message_147": {
+    "message_id": "message_147",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "HomePortal lease renewal increasing monthly rent by 12%."
+  },
+  "message_148": {
+    "message_id": "message_148",
+    "salary_adjustment_amount": 31889.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "HarborWorks salary reduced to ZAR 31889 due to unpaid leave."
+  },
+  "message_149": {
+    "message_id": "message_149",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media confirming first salary of INR 145000."
+  },
+  "message_150": {
+    "message_id": "message_150",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health work expense reimbursement claim closed with no additional reimbursement."
+  },
+  "message_151": {
+    "message_id": "message_151",
+    "salary_adjustment_amount": 627.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary increased to EUR 627."
+  },
+  "message_152": {
+    "message_id": "message_152",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Refund initiated but not yet reached account."
+  },
+  "message_153": {
+    "message_id": "message_153",
+    "salary_adjustment_amount": 1750.32,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Temporary monthly pay reduced to EUR 1750.32."
+  },
+  "message_154": {
+    "message_id": "message_154",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Salary payroll date changed to 2025-08-23."
+  },
+  "message_155": {
+    "message_id": "message_155",
+    "salary_adjustment_amount": 1222.65,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Salary reduced to EUR 1222.65 due to unpaid leave."
+  },
+  "message_156": {
+    "message_id": "message_156",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary of IDR 38190000 scheduled for 2025-11-15."
+  },
+  "message_157": {
+    "message_id": "message_157",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Extra card charge dispute open, reversal pending."
+  },
+  "message_158": {
+    "message_id": "message_158",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Weekly earnings pending and unwithdrawable."
+  },
+  "message_159": {
+    "message_id": "message_159",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Quarterly bonus pending performance review and approval."
+  },
+  "message_160": {
+    "message_id": "message_160",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Seasonal contract ended, off-season income unconfirmed."
+  },
+  "message_161": {
+    "message_id": "message_161",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Minimum payments due on two separate card accounts."
+  },
+  "message_162": {
+    "message_id": "message_162",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary set to EUR 2024 credited on 2026-01-15."
+  },
+  "message_163": {
+    "message_id": "message_163",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Investment value dropped, no cash transaction."
+  },
+  "message_164": {
+    "message_id": "message_164",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Extra card charge dispute open, reversal pending."
+  },
+  "message_165": {
+    "message_id": "message_165",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Confirmed salary expected date updated to 2025-02-23."
+  },
+  "message_166": {
+    "message_id": "message_166",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Seasonal contract ended and no off-season income or renewal confirmed."
+  },
+  "message_167": {
+    "message_id": "message_167",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Foreign-currency refund is still processing and final credit is pending settlement."
+  },
+  "message_168": {
+    "message_id": "message_168",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "QuickCrew payout is pending and balance is not yet withdrawable."
+  },
+  "message_169": {
+    "message_id": "message_169",
+    "salary_adjustment_amount": 2424.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly salary increased to USD 2424 effective 2026-07-15."
+  },
+  "message_170": {
+    "message_id": "message_170",
+    "salary_adjustment_amount": 1914.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Regular salary of EUR 1914 resumes on 2026-04-15 with a new childcare payment."
+  },
+  "message_171": {
+    "message_id": "message_171",
+    "salary_adjustment_amount": 1346.4,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Temporary reduced monthly pay is EUR 1346.40 for the upcoming payroll."
+  },
+  "message_172": {
+    "message_id": "message_172",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Refund initiated but not yet received."
+  },
+  "message_173": {
+    "message_id": "message_173",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Invoice payment of ZAR 35200 approved, while other submitted invoices await approval."
+  },
+  "message_174": {
+    "message_id": "message_174",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Reimbursement for prior work expenses paid and claim closed with no additional adjustments."
+  },
+  "message_175": {
+    "message_id": "message_175",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Monthly rent increased by 12% starting from the next payment."
+  },
+  "message_176": {
+    "message_id": "message_176",
+    "salary_adjustment_amount": 260000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": 117000.0,
+    "summary": "Regular salary set to INR 260000 with a separate one-time arrears adjustment of INR 117000."
+  },
+  "message_177": {
+    "message_id": "message_177",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Quarterly bonus is pending performance review and approval."
+  },
+  "message_178": {
+    "message_id": "message_178",
+    "salary_adjustment_amount": 30400000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary of IDR 30400000 confirmed with credit date 2026-04-15."
+  },
+  "message_179": {
+    "message_id": "message_179",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Previous debit failed, bill remains outstanding for a retry attempt."
+  },
+  "message_180": {
+    "message_id": "message_180",
+    "salary_adjustment_amount": 2827.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Household employment record ended, leaving a confirmed monthly salary of EUR 2827."
+  },
+  "message_181": {
+    "message_id": "message_181",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary of EUR 2772 confirmed by Cobalt Systems for June 15, 2024."
+  },
+  "message_182": {
+    "message_id": "message_182",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary of IDR 16910000 scheduled by Northstar Labs for November 15, 2025."
+  },
+  "message_183": {
+    "message_id": "message_183",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Summit Bank reports card charge reversal is pending and dispute is open."
+  },
+  "message_184": {
+    "message_id": "message_184",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "MarketDock foreign-currency refund is still processing."
+  },
+  "message_185": {
+    "message_id": "message_185",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "PocketVest investment value update showing market fluctuations with no cash transactions."
+  },
+  "message_186": {
+    "message_id": "message_186",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BrightPath Media seasonal contract ended with no off-season income confirmed."
+  },
+  "message_187": {
+    "message_id": "message_187",
+    "salary_adjustment_amount": 912.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs remaining confirmed monthly salary is USD 912 after employment record ended."
+  },
+  "message_188": {
+    "message_id": "message_188",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cobalt Systems posted new first salary update of INR 62000 for January 15, 2026."
+  },
+  "message_189": {
+    "message_id": "message_189",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail seasonal contract ended with no off-season income confirmed."
+  },
+  "message_190": {
+    "message_id": "message_190",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail scheduled first salary of EUR 968 for August 15, 2025."
+  },
+  "message_191": {
+    "message_id": "message_191",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health salary of USD 1680 confirmed for November 15, 2025."
+  },
+  "message_192": {
+    "message_id": "message_192",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": true,
+    "amended_event_amount": null,
+    "summary": "Cedar Health employment ended with no further regular salary scheduled."
+  },
+  "message_193": {
+    "message_id": "message_193",
+    "salary_adjustment_amount": 1528.56,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs temporary reduced monthly pay set to EUR 1528.56."
+  },
+  "message_194": {
+    "message_id": "message_194",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail confirmed base salary USD 1548, with commission for open deals pending approval."
+  },
+  "message_195": {
+    "message_id": "message_195",
+    "salary_adjustment_amount": 702.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods salary reduced to USD 702 due to approved unpaid leave."
+  },
+  "message_196": {
+    "message_id": "message_196",
+    "salary_adjustment_amount": 53680.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary from Cobalt Systems confirmed at ZAR 53680 for 2024-12-15."
+  },
+  "message_197": {
+    "message_id": "message_197",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Summit Bank reports dispute is still open and refund/reversal is pending."
+  },
+  "message_198": {
+    "message_id": "message_198",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Oakline Bank debit attempt failed, bill remains outstanding."
+  },
+  "message_199": {
+    "message_id": "message_199",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods quarterly bonus is subject to performance review and unapproved."
+  },
+  "message_200": {
+    "message_id": "message_200",
+    "salary_adjustment_amount": 214000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "First salary from Riverline Retail confirmed at INR 214000 for 2024-06-15."
+  },
+  "message_201": {
+    "message_id": "message_201",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "BluePeak Bank debit attempt failed, bill remains outstanding."
+  },
+  "message_202": {
+    "message_id": "message_202",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Summit Bank confirms transfer between two accounts under same holder."
+  },
+  "message_203": {
+    "message_id": "message_203",
+    "salary_adjustment_amount": 48260000.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Cedar Health payroll updated; remaining confirmed monthly salary is IDR 48260000."
+  },
+  "message_204": {
+    "message_id": "message_204",
+    "salary_adjustment_amount": 1485.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Riverline Retail salary confirmed at EUR 1485 for 2025-05-15."
+  },
+  "message_205": {
+    "message_id": "message_205",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Nova Securities notes investment value fell without cash transaction."
+  },
+  "message_206": {
+    "message_id": "message_206",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Greenfield Foods seasonal contract ended with no off-season income confirmed."
+  },
+  "message_207": {
+    "message_id": "message_207",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Funds reports portfolio market value increase without cash proceeds."
+  },
+  "message_208": {
+    "message_id": "message_208",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "CartLane purchase charged in foreign currency awaiting settlement rate."
+  },
+  "message_209": {
+    "message_id": "message_209",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "PrizeLine prize claim verified and in payment processing, not yet credited."
+  },
+  "message_210": {
+    "message_id": "message_210",
+    "salary_adjustment_amount": 38280.0,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Northstar Labs first salary scheduled at ZAR 38280 for 2025-11-15."
+  },
+  "message_211": {
+    "message_id": "message_211",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Payroll notification stating regular salary of INR 103000 plus a one-time arrears adjustment of INR 46350."
+  },
+  "message_212": {
+    "message_id": "message_212",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Quarterly bonus is pending performance review and final approval."
+  },
+  "message_213": {
+    "message_id": "message_213",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": false,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Bank notification regarding offsetting debit and credit transfers between accounts of the same owner."
+  },
+  "message_214": {
+    "message_id": "message_214",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Foreign-currency refund is still processing, and final home-currency credit is pending settlement."
+  },
+  "message_215": {
+    "message_id": "message_215",
+    "salary_adjustment_amount": null,
+    "is_income_unconfirmed_or_pending": true,
+    "is_event_cancelled": false,
+    "amended_event_amount": null,
+    "summary": "Refund has been processed by UrbanCart but is not yet credited to the account."
+  }
+}
